@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Asparagus",
+    "price": 50000,
+    "image": "https://id.wikipedia.org/wiki/Asparagus#/media/Berkas:Asparagus-Bundle.jpg",
+    "weight": 500,
+    "description": "Asparagus rendah kalori, tidak mengandung kolesterol dan sangat rendah sodium. Ini juga merupakan sumber yang baik untuk vitamin B6, kalsium, magnesium dan seng, dan sumber yang sangat baik serat, protein, vitamin A, vitamin C, vitamin E, vitamin K, thiamin, riboflavin, rutin, niacin, asam folat, besi, fosfor, kalium, tembaga, mangan dan selenium. Asam amino asparagina berasal dari asparagus, tanaman asparagus kaya akan kandungan bahan yang satu ini.",
+    "stock": "25"
+  },
+  {
+    "name": "Brokoli",
+    "price": 18000,
+    "image": "https://id.wikipedia.org/wiki/Brokoli#/media/Berkas:Broccoli_and_cross_section_edit.jpg",
+    "weight": 500,
+    "description": "Brokoli memiliki Vitamin A & C dan brokoli bermanfaat sebagai antioksidan yang berfungsi mendetoksifikasi radikal bebas dan memperbaiki sistem kekebalan tubuh, awet muda, menurunkan resiko diabetes dan penyakit jantung, serta mencegah tumbuh kembangnya sel kanker. Sedangkan kandungan kalsiumnya hampir setara dengan segelas susu, yang penting untuk menguatkan tulang dan membantu pembekuan darah.",
+    "stock": "10"
+  },
+  {
+    "name": "Sawi Hijau",
+    "price": 8000,
+    "image": "https://id.wikipedia.org/wiki/Sawi_hijau#/media/Berkas:Phak_kwangtung905.JPG",
+    "weight": 250,
+    "description": "Sawi hijau sangat populer sebagai sayuran pendamping pada bakso serta beberapa masakan dengan pengaruh dari Tiongkok. Dalam budidaya, biasanya dipanen pada usia 40 hari setelah pindah tanam. Bagian yang dikonsumsi adalah helai daun dengan tangkainya, yang jarang dimakan sebagai lalapan. Pengolahan biasanya adalah dilayukan atau direbus",
+    "stock": "15"
+  }
+]
