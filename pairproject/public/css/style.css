@@ -1,0 +1,12 @@
+body {
+  background-image: url("./back2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  display: grid;
+  min-height: 100vh;
+  place-items: center;
+  line-height: 1.6;
+  font-family: sans-serif;
+}

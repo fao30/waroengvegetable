@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fakhrul",
+    "email": "fao@yahoo.com",
+    "address": "bekasi",
+    "phone": "383838383",
+    "UserID": 1
+  },
+  {
+    "name": "Huang",
+    "email": "huan@jimel.com",
+    "address": "karawang",
+    "phone": "0808008808",
+    "UserID": 2
+  }
+]
